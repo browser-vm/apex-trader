@@ -31,3 +31,6 @@ dist-ssr
 data/
 
 package-lock.json
+
+# Vibe Coding - I use Kilo Code!
+.kilocode/
