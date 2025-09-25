@@ -2,7 +2,7 @@
 
 A brutalist-inspired stock trading simulation game for learning and competition.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/browser-vm/apex-trader)
 
 ## 📈 About The Project
 
@@ -78,7 +78,7 @@ This project is designed for seamless deployment to the Cloudflare network.
 
 Alternatively, you can deploy directly from your GitHub repository with a single click:
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/browser-vm/apex-trader)
 
 ## 📂 Project Structure
 
